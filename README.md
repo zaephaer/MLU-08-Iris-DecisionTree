@@ -9,3 +9,5 @@ sklearn.datasets import load_iris<br>
 iris = load_iris()
 
 **Objective**<br>
+- To visualize the decision process in a simple flowchart to trace the rational of every assignment made by a decision tree model
+- using graphviz
